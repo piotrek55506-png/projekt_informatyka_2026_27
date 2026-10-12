@@ -1,1 +1,3 @@
-# projekt_informatyka_2026_27
+# [Projekt Informatyka]
+Autor: [Piotr Kujawski]
+Laboratorium informatyki 2026/27
